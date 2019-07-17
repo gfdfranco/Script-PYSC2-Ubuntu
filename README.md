@@ -36,7 +36,7 @@ If you want you can run the next tasks:
 
 ## Installation
 Tutorials: 
-   - MyMakeLab: http://www.mymakelab.com/tutoriales/gfdgeras/script-pysc2-ubuntu
+   - Linkedin: https://www.linkedin.com/pulse/pysc2-installation-script-ubuntu-gerardo-franco-delgado/
    - Youtube: https://youtu.be/wthOA27FX8Q
       
 ## Run the script
